@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Telerik.Sitefinity.UI.MVC</name>
+    </assembly>
+    <members>
+        <member name="T:Telerik.Sitefinity.UI.MVC.Helpers.InlineEditingHelper">
+            <summary>
+            Class representation of the inline editing helper
+            </summary>
+        </member>
+        <member name="M:Telerik.Sitefinity.UI.MVC.Helpers.InlineEditingHelper.GetInlineEditingManagerResources(Telerik.Sitefinity.Mvc.Rendering.PageProxy,System.Boolean)">
+            <summary>
+            Returns the resources needed for the Inline editing manager control
+            </summary>
+            <param name="pageProxy"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Telerik.Sitefinity.UI.MVC.Helpers.InlineEditingHelper.GetInlineEditingManagerHiddenFields">
+            <summary>
+            Returns the hidden fields with set values need for the inline editing manager control
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Telerik.Sitefinity.UI.MVC.Helpers.InlineEditingHelper.GetInlineEditingManagerControl">
+            <summary>
+            Returns the inline editing control
+            </summary>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.Boolean)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.Object)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.Web.Routing.RouteValueDictionary)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.String,System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.String,System.String,System.Object,System.Boolean)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.String,System.String,System.Object)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.String,System.String,System.Web.Routing.RouteValueDictionary)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.String,System.String,System.Web.Mvc.FormMethod)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.String,System.String,System.Web.Routing.RouteValueDictionary,System.Web.Mvc.FormMethod)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.String,System.String,System.Web.Mvc.FormMethod,System.Object)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.String,System.String,System.Web.Mvc.FormMethod,System.Collections.Generic.IDictionary{System.String,System.Object})" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.String,System.String,System.Object,System.Web.Mvc.FormMethod,System.Object)" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.String,System.String,System.Web.Routing.RouteValueDictionary,System.Web.Mvc.FormMethod,System.Collections.Generic.IDictionary{System.String,System.Object})" -->
+        <!-- Badly formed XML comment ignored for member "M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.BeginFormSitefinity(System.Web.Mvc.HtmlHelper,System.String,System.String,System.Web.Routing.RouteValueDictionary,System.Web.Mvc.FormMethod,System.Collections.Generic.IDictionary{System.String,System.Object},System.Boolean)" -->
+        <member name="M:Telerik.Sitefinity.UI.MVC.SitefinityExtensions.InlineEditingManager(System.Web.Mvc.HtmlHelper,System.Nullable{System.Boolean})">
+            <summary>
+            This method adds an Inline Editing Manager to any page if the current user is authenticated
+            </summary>
+            <param name="htmlHelper"></param>
+            <param name="loadExternalScripts">Parameter shows when explicitly we need to load the external JavaScript libraries</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

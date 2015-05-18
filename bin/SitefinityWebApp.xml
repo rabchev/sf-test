@@ -1,0 +1,1588 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SitefinityWebApp</name>
+    </assembly>
+    <members>
+        <member name="M:SitefinityWebApp.Tests.CustomTests.MultisiteTaxonomiesTestPage.TaxonomyExamples">
+            <summary>
+            Examples for managing taxonomies in multisite context
+            </summary>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.MultisiteTaxonomiesTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.MultisiteTaxonomiesTestPage.StatusLiteral">
+            <summary>
+            StatusLiteral control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.MultisiteTaxonomiesTestPage.GenerateFlatButton">
+            <summary>
+            GenerateFlatButton control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.MultisiteTaxonomiesTestPage.TaxonomyNameTextBox">
+            <summary>
+            TaxonomyNameTextBox control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.MultisiteTaxonomiesTestPage.UnSplitButton">
+            <summary>
+            UnSplitButton control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.MultisiteTaxonomiesTestPage.TaxonomyNameUnlinkTextBox">
+            <summary>
+            TaxonomyNameUnlinkTextBox control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.MultisiteTaxonomiesTestPage.SiteIdUnlinkTextBox">
+            <summary>
+            SiteIdUnlinkTextBox control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.MultisiteTaxonomiesTestPage.UnLinkButton">
+            <summary>
+            UnLinkButton control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.IntegrationTests.TestExecutionPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.IntegrationTests.TestExecutionPage.grid">
+            <summary>
+            grid control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.Component.head">
+            <summary>
+            head control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.Component.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.Component.suiteTitle">
+            <summary>
+            suiteTitle control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.Component.workarea">
+            <summary>
+            workarea control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.ComponentTest.head">
+            <summary>
+            head control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.ComponentTest.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.ComponentTest.suiteTitle">
+            <summary>
+            suiteTitle control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.ComponentTest.testsArea">
+            <summary>
+            testsArea control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.SitefinityJS.Form.FormTestMaster.testTitle">
+            <summary>
+            testTitle control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.SitefinityJS.Form.FormTestMaster.testDescription">
+            <summary>
+            testDescription control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.SitefinityJS.Form.FormTestMaster.testCode">
+            <summary>
+            testCode control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.SitefinityJS.Form.FormTestMaster.test">
+            <summary>
+            test control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.SitefinityJS.Form.FormTestMaster.buttons">
+            <summary>
+            buttons control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.SitefinityJS.Message.MessageTest.testTitle">
+            <summary>
+            testTitle control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.SitefinityJS.Message.MessageTest.testDescription">
+            <summary>
+            testDescription control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.SitefinityJS.Message.MessageTest.testCode">
+            <summary>
+            testCode control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.SitefinityJS.Message.MessageTest.test">
+            <summary>
+            test control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ComponentTests.SitefinityJS.Message.MessageTest.buttons">
+            <summary>
+            buttons control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.AnyFluentTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.AnyFluentTestPage.createNew">
+            <summary>
+            createNew control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.AnyFluentTestPage.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.AnyFluentTestPage.Button2">
+            <summary>
+            Button2 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.AnyFluentTestPage.button3">
+            <summary>
+            button3 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="T:SitefinityWebApp.AzureWebRole">
+            <summary>
+            Sitefinity's Windows Azure role entry point.
+            </summary>
+            <remarks>
+            Windows Azure looks for RoleEntryPoint inheritors only in the web role assembly and that is why this class is defined here.
+            The functionality goes into the base class - <see cref="T:Telerik.Sitefinity.Cloud.WindowsAzure.AzureWebRoleBase"/>.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ConfigTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ConfigTestPage.ph">
+            <summary>
+            ph control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.ContentLocationsApiTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.ControlPropertiesReport.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.ControlPropertiesReport.execute">
+            <summary>
+            execute control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.ControlPropertiesReport.report">
+            <summary>
+            report control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.ControlPropertiesReport.siteList">
+            <summary>
+            siteList control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.ControlPropertiesReport.errorMessage">
+            <summary>
+            errorMessage control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.ControlPropertiesReport.problemPages">
+            <summary>
+            problemPages control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.ControlPropertiesReport.pageTree">
+            <summary>
+            pageTree control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.CustomTests.ControlPropertiesReport.htmlContainer">
+            <summary>
+            htmlContainer control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.ControlPropertiesTest.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.ControlPropertiesTest.Button2">
+            <summary>
+            Button2 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.ControlPropertiesTest.TextBox1">
+            <summary>
+            TextBox1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.ControlPropertiesTest.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.ControlPropertiesTest.Literal1">
+            <summary>
+            Literal1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.FetchStrategiesTests.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.FormsTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.FormsTestPage.FormTitleTextBox">
+            <summary>
+            FormTitleTextBox control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.FormsTestPage.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.ForumsTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.ForumsTestPage.uxTestValidation">
+            <summary>
+            uxTestValidation control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.ForumsTestPage.uxTestPermissions">
+            <summary>
+            uxTestPermissions control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.ForumsTestPage.uxTestPageModules">
+            <summary>
+            uxTestPageModules control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.MultisiteTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.MultisiteTestPage.CreateNewSite">
+            <summary>
+            CreateNewSite control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.OpenAccesTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.OpenAccesTestPage.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.PageApiTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.PageApiTestPage.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.PageApiTestPage.Button2">
+            <summary>
+            Button2 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.PublicationDateTests.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.PublicationDateTests.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.SchedulingTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.SchedulingTestPage.uxStart">
+            <summary>
+            uxStart control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.SchedulingTestPage.uxResume">
+            <summary>
+            uxResume control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.SchedulingTestPage.uxNameFilter">
+            <summary>
+            uxNameFilter control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.SchedulingTestPage.uxFilter">
+            <summary>
+            uxFilter control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.SchedulingTestPage.uxStatus">
+            <summary>
+            uxStatus control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.TaxonomyTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.TaxonomyTestPage.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.TaxonomyTestPage.tagsLabel">
+            <summary>
+            tagsLabel control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.CustomTests.TaxonomyTestPage.Button2">
+            <summary>
+            Button2 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.LibrariesTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.LibrariesTestPage.libUrlName">
+            <summary>
+            libUrlName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.LibrariesTestPage.libNewUrlName">
+            <summary>
+            libNewUrlName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.LibrariesTestPage.libNewStorage">
+            <summary>
+            libNewStorage control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.LibrariesTestPage.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.LibrariesTestPage.Button4">
+            <summary>
+            Button4 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.LibrariesTestPage.progress">
+            <summary>
+            progress control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.LibrariesTestPage.Button2">
+            <summary>
+            Button2 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.LibrariesTestPage.Button3">
+            <summary>
+            Button3 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="M:Sitefinity.Samples.LibrariesTest.CreateAlbumAndUploadImages(System.String,System.String,System.String)">
+            <summary>
+            Creates an album with the specified BLOB storage provider and uploads there the images from the specified path.
+            </summary>
+            <param name="rootFolderPath">The root folder path.</param>
+            <param name="blobStorageProvider">The BLOB storage provider.</param>
+        </member>
+        <member name="M:Sitefinity.Samples.LibrariesTest.BeginChangeAlbumBlobStorage(System.String,System.String)">
+            <summary>
+            Change the album BLOB Storage Provider and begins transfering album images to the BLOB storage of the album.
+            This might be a long time operation. If it doesn't finish for some reason, can be resumed.
+            </summary>
+            <param name="albumName">Name of the album.</param>
+            <param name="newBlobStorageProvider">The new BLOB storage provider.</param>
+        </member>
+        <member name="M:Sitefinity.Samples.LibrariesTest.BeginMoveAlbumImagesToAnotherAlbum(System.String,System.String)">
+            <summary>
+            Begins move album images to another album.
+            If the target album use a different blob storage, the images will be transfered to the target album storage.
+            In this case the operation could take a long time. If it doesn't finish for some reason, can be resumed.
+            </summary>
+            <param name="albumName">Name of the album.</param>
+            <param name="newBlobStorageProvider">The new BLOB storage provider.</param>
+        </member>
+        <member name="F:SitefinityWebApp.Designers.QueryBuilderTest.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Designers.QueryBuilderTest.ScriptManager1">
+            <summary>
+            ScriptManager1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Designers.QueryBuilderTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Designers.QueryBuilderTest.qb1">
+            <summary>
+            qb1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.FormsTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.FormsTestPage.theScriptManager">
+            <summary>
+            theScriptManager control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.FormsTestPage.formName">
+            <summary>
+            formName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.FormsTestPage.btnCreateFormDescription">
+            <summary>
+            btnCreateFormDescription control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.FormsTestPage.btnCreateMetaType">
+            <summary>
+            btnCreateMetaType control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.FormsTestPage.btnCreateFormEntry">
+            <summary>
+            btnCreateFormEntry control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.FormsTestPage.btnGetFormDescriptionFields">
+            <summary>
+            btnGetFormDescriptionFields control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.FormsTestPage.btnGoToEntriesList">
+            <summary>
+            btnGoToEntriesList control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.IntegrationTests.Modules.Pages.ExternalTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.IntegrationTests.Modules.Pages.Test.head">
+            <summary>
+            head control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.IntegrationTests.Modules.Pages.Test.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.IntegrationTests.Modules.Pages.Test.RadScriptManager1">
+            <summary>
+            RadScriptManager1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.IntegrationTests.Modules.Pages.Test.RadStyleSheetManager1">
+            <summary>
+            RadStyleSheetManager1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.IntegrationTests.Modules.Pages.Test.ContentPlaceHolder1">
+            <summary>
+            ContentPlaceHolder1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Data.ClientManagerTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.Backend.Elements.ButtonBarTest.resources">
+            <summary>
+            resources control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.ClientBinders.AsyncCommandMediatorTest.resources">
+            <summary>
+            resources control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.ClientBinders.ClientBinderTest.resources">
+            <summary>
+            resources control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.Extenders.ExpandableExtenderTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.ChoiceFieldTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.ChoiceTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.CompositeFieldTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.DateFieldTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.FieldControlTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.FlatTaxonFieldTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.HierarchicalTaxonFieldTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.HtmlFieldTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.MirrorTextFieldTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.StatusFieldTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.TaxonFieldTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.TextFieldTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.Telerik.Sitefinity.Web.UI.FieldControls.ValidationTest.resourceLinks">
+            <summary>
+            resourceLinks control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.TestBase.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.TestBase.ScriptManager1">
+            <summary>
+            ScriptManager1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.JsTests.tests.TestBase.TestBody">
+            <summary>
+            TestBody control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.LoadTests.Setup.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="T:SitefinityWebApp.Tests.LoadTests.LoadTestRestartApplication">
+            <summary>
+            Load test LoadTestRestartApplication
+            </summary>
+        </member>
+        <member name="M:SitefinityWebApp.Tests.LoadTests.LoadTestRestartApplication.Page_Load(System.Object,System.EventArgs)">
+            <summary>
+            Page for reset restart load test
+            </summary>
+            <param name="sender">the sender</param>
+            <param name="e">the parameter</param>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.LoadTests.LoadTestRestartApplication.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.SubstitutionServerNameControl.name">
+            <summary>
+            name control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.FetchStrategyTest.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.FetchStrategyTest.TestBtn">
+            <summary>
+            TestBtn control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.MetadataAggregationPerformance.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.MetadataAggregationPerformance.Button3">
+            <summary>
+            Button3 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.MetadataAggregationPerformance.Button2">
+            <summary>
+            Button2 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.MetadataAggregationPerformance.NumCulturesText">
+            <summary>
+            NumCulturesText control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.MetadataAggregationPerformance.DropDownListTestMethods">
+            <summary>
+            DropDownListTestMethods control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.MetadataAggregationPerformance.NumberOfTestsText">
+            <summary>
+            NumberOfTestsText control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.MetadataAggregationPerformance.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.MetadataAggregationPerformance.LabelMax">
+            <summary>
+            LabelMax control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.MetadataAggregationPerformance.LabelMin">
+            <summary>
+            LabelMin control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.MetadataAggregationPerformance.LabelAvg">
+            <summary>
+            LabelAvg control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.OpenAccessTests.MetadataAggregationPerformance.LabelRegModules">
+            <summary>
+            LabelRegModules control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.PerformanceOptimizations.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.PerformanceOptimizations.Button_ChangeDynModulesConn">
+            <summary>
+            Button_ChangeDynModulesConn control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.PerformanceOptimizations.Button_VersioningSepration">
+            <summary>
+            Button_VersioningSepration control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tests.PerformanceOptimizations.Button_BlobSeparation">
+            <summary>
+            Button_BlobSeparation control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ReportsTest.ReportsTest.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ReportsTest.ReportsTest.installProductTypes">
+            <summary>
+            installProductTypes control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ReportsTest.ReportsTest.createProducts">
+            <summary>
+            createProducts control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ReportsTest.ReportsTest.deleteProducts">
+            <summary>
+            deleteProducts control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ReportsTest.ReportsTest.createCustomers">
+            <summary>
+            createCustomers control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ReportsTest.ReportsTest.deleteCustomers">
+            <summary>
+            deleteCustomers control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ReportsTest.ReportsTest.createOrders">
+            <summary>
+            createOrders control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.ReportsTest.ReportsTest.deleteOrders">
+            <summary>
+            deleteOrders control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.TemplateTests.AscxMirrorer.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.TemplateTests.AscxMirrorer.ResourcesPath">
+            <summary>
+            ResourcesPath control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.TemplateTests.AscxMirrorer.TargetPath">
+            <summary>
+            TargetPath control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.TemplateTests.AscxMirrorer.MirrorButton">
+            <summary>
+            MirrorButton control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.TemplateTests.AscxMirrorer.ResultPlaceHolder">
+            <summary>
+            ResultPlaceHolder control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.TemplateTests.TemplateTests.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.UpgradeTests.CreatePagesHierarchy.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.UpgradeTests.CreatePagesHierarchy.pagesPerLevel">
+            <summary>
+            pagesPerLevel control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.UpgradeTests.CreatePagesHierarchy.pageLevels">
+            <summary>
+            pageLevels control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.UpgradeTests.CreatePagesHierarchy.createPages">
+            <summary>
+            createPages control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.UserGridControl.gridView">
+            <summary>
+            gridView control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.VSTests.UserRadGridControl.label">
+            <summary>
+            label control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.VSTests.UserRadGridControl.RadGrid1">
+            <summary>
+            RadGrid1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.UserSimpleControl.label">
+            <summary>
+            label control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.UserSimpleControl.btn">
+            <summary>
+            btn control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tools.ContentGeneratorTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tools.ContentGeneratorTestPage.Create">
+            <summary>
+            Create control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:SitefinityWebApp.Tools.ContentGeneratorTestPage.Delete">
+            <summary>
+            Delete control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+    </members>
+</doc>
